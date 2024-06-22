@@ -7,7 +7,7 @@ Dynamic Entry Management: Users can add or remove receipt items with a simple in
 
 Subscription Details: Incorporates Bronze, Prime, and Gold subscription types with corresponding prices, dynamically reflected in the receipt PDF.
 
-Professional PDF Output: Each receipt includes a header for "KK GYM" and a comprehensive description of KK's Gym, enhancing the professional appeal of the generated receipts.
+Professional PDF Output: Each receipt includes a header for "COMPANY" and a comprehensive description of COMAPNY, enhancing the professional appeal of the generated receipts.
 
 Learning Outcomes:
 GUI Development: Gain proficiency in building graphical user interfaces (GUIs) using Tkinter, including entry fields, buttons, and dynamic widget management.
@@ -15,9 +15,6 @@ GUI Development: Gain proficiency in building graphical user interfaces (GUIs) u
 PDF Generation: Learn to use ReportLab for creating PDF documents dynamically, incorporating styled paragraphs, tables, and headers.
 
 Error Handling: Implement robust error handling for user inputs, ensuring complete data before generating receipts.
-
-About KK GYM:
-KK's Gym is a renowned fitness brand known globally and established in India since 2002. KK’s Gym India continues the legacy with world-class fitness facilities and a range of workout programs tailored for diverse fitness enthusiasts. It aims to empower individuals across various cities to achieve their fitness goals with state-of-the-art equipment, expert trainers, and a supportive community fostering holistic wellness.
 
 Project Structure:
 Main File: receipt.py handles the application logic, GUI setup, and PDF generation.
